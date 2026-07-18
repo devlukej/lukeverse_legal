@@ -17,6 +17,8 @@ open('terms.html', 'w', encoding='utf-8').write(render_terms_html())
 "
 ```
 
-## 배포된 URL (GitHub Pages 활성화 후)
-- 개인정보처리방침: https://devlukej.github.io/lukeverse_legal/
-- 이용약관: https://devlukej.github.io/lukeverse_legal/terms.html
+## 배포된 URL (GitHub Pages + 커스텀 도메인)
+- 개인정보처리방침: https://bus-legal.lukeverse.com/
+- 이용약관: https://bus-legal.lukeverse.com/terms.html
+
+(커스텀 도메인 연결 전에는 https://devlukej.github.io/lukeverse_legal/ 로도 접근 가능)
