@@ -20,5 +20,6 @@ open('terms.html', 'w', encoding='utf-8').write(render_terms_html())
 ## 배포된 URL (GitHub Pages + 커스텀 도메인)
 - 개인정보처리방침: https://bus-legal.lukeverse.com/
 - 이용약관: https://bus-legal.lukeverse.com/terms.html
+- 계정 및 데이터 삭제 안내: https://bus-legal.lukeverse.com/account-deletion.html
 
 (커스텀 도메인 연결 전에는 https://devlukej.github.io/lukeverse_legal/ 로도 접근 가능)
