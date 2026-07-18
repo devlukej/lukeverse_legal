@@ -21,5 +21,8 @@ open('terms.html', 'w', encoding='utf-8').write(render_terms_html())
 - 개인정보처리방침: https://bus-legal.lukeverse.com/
 - 이용약관: https://bus-legal.lukeverse.com/terms.html
 - 계정 및 데이터 삭제 안내: https://bus-legal.lukeverse.com/account-deletion.html
+- AdMob app-ads.txt: https://bus-legal.lukeverse.com/app-ads.txt
+
+Play Console 개발자 웹사이트는 `https://bus-legal.lukeverse.com` 으로 맞추면 AdMob이 위 파일을 크롤링합니다.
 
 (커스텀 도메인 연결 전에는 https://devlukej.github.io/lukeverse_legal/ 로도 접근 가능)
